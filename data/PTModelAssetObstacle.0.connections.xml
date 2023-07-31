@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>128</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>130</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>343</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>345</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>1472</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2089</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2091</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2528</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2530</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2539</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2541</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2554</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2556</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2569</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2571</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2580</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2582</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2595</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2597</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2610</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2612</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2622</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2624</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2644</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2646</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2662</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2664</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2673</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2675</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2684</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2686</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2795</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2797</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2965</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2967</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2977</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2979</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2988</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2990</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3009</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3011</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3025</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3027</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3040</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3042</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3051</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3053</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3066</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3068</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3081</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3083</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3096</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3098</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3107</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3109</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3945</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3947</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3956</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3958</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4258</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4260</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4276</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>4278</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
